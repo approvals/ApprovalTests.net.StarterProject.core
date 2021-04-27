@@ -1,0 +1,1 @@
+# ApprovalTests.net.StarterProject.core
